@@ -1,0 +1,23 @@
+.Note {
+    padding: 20px 20px;
+    background-color: rgb(214, 214, 214);
+    border-radius: 4px;
+}
+
+.text-note {
+    min-width: 30%;
+    min-height: 50px;
+    padding: 0;
+}
+
+input {
+    border-radius: 4px;
+}
+
+.btn-note {
+    margin: 10px 0;
+}
+
+#submit-note {
+    bottom: 10px;
+}
