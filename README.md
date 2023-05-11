@@ -9,6 +9,7 @@ A simple notes app with the possibility to format notes using markdown.
 - Edit a note;
 - Delete a note;
 - The possibility to format a note using markdown features;
+- **Redux** - to manage the app's state.
 
 ## Features that I am about to add
 - Redesign the app;
